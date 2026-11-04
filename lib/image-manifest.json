@@ -1,0 +1,145 @@
+{
+ "/images/logo.jpg": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.2b569d995a",
+  "stamp": "2b569d995a"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.df2b79f55f",
+  "stamp": "df2b79f55f"
+ },
+ "/images/post-1.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-1.6159ac0bf5",
+  "stamp": "6159ac0bf5"
+ },
+ "/images/post-2.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-2.6cf4fb4691",
+  "stamp": "6cf4fb4691"
+ },
+ "/images/post-3.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-3.e6a25a773a",
+  "stamp": "e6a25a773a"
+ },
+ "/images/post-4.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-4.d97f1e2c09",
+  "stamp": "d97f1e2c09"
+ },
+ "/images/post-5.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-5.587de745c4",
+  "stamp": "587de745c4"
+ },
+ "/images/post-6.jpg": {
+  "w": 1080,
+  "h": 720,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-6.254bdc2897",
+  "stamp": "254bdc2897"
+ },
+ "/images/post-7.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-7.553ea3b6b2",
+  "stamp": "553ea3b6b2"
+ },
+ "/images/post-8.jpg": {
+  "w": 1080,
+  "h": 1354,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-8.ed659fe477",
+  "stamp": "ed659fe477"
+ }
+}
